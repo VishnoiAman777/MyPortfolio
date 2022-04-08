@@ -1,0 +1,69 @@
+.upperdiv
+{
+    background-image: url('../download2.png');
+    position: relative;
+    bottom: 8px;
+    background-position: right;
+    background-color:black;
+    height:100vh;
+}
+.container{
+    height: auto;
+    position:relative;
+    text-align: center;
+    align-items: center;
+    top:220px
+}
+
+.nameStyle{
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+    font-weight: bold; 
+    font-size:40px
+}
+
+.infoStyle{
+    font-family: 'Raleway', sans-serif;
+    color: #d6d3d3;
+    font-weight: 600;
+    font-size: 18px
+}
+.gmail{
+    color: #d65d5d
+}
+.gmail:hover{
+    color:red;
+}
+.github{
+    color: #d9d1d1;
+}
+.github:hover{
+    color:white;
+}
+.linkedin{
+    color:#87b4f6;
+}
+.linkedin:hover{
+    color:#0a66c2
+}
+
+.btn-about{
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  color:white;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #34b7a7;
+}
+
+.btn-about:hover {
+    background: #3dc8b7;
+    color:white;
+  }
